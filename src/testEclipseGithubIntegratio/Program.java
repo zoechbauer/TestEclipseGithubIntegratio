@@ -1,6 +1,9 @@
 package testEclipseGithubIntegratio;
 
 public class Program {
+	// intendation code formatting changed
+	// spaces insted of tabs
+	// tab = 3 spaces
 
 	public static void main(String[] args) {
 		testIntendationInGithub();
