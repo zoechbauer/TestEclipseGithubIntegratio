@@ -26,11 +26,6 @@ public class Program {
 
    }
 
-   public static void main(String[] args) {
-      testIntendationInGithub();
-
-   }
-
    public static void testIntendationInGithub2() {
       anotherMethod();
       if (true) {
