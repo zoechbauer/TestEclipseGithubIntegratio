@@ -7,26 +7,10 @@ public class Program {
 
    public static void main(String[] args) {
       testIntendationInGithub();
-      testIntendationInGithub2();
 
    }
 
    public static void testIntendationInGithub() {
-      anotherMethod();
-      if (true) {
-         andOneMore();
-         if (false) {
-            lastMethod();
-         } else {
-            for (int i = 0; i < 10; i++) {
-               System.out.println(i);
-            }
-         }
-      }
-
-   }
-
-   public static void testIntendationInGithub2() {
       anotherMethod();
       if (true) {
          andOneMore();
